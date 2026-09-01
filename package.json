@@ -1,0 +1,21 @@
+{
+  "name": "reliably",
+  "version": "1.0.0",
+  "description": "An AI workflow puzzle lab — build resilient AI workflows through interactive puzzles.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node test/engine.test.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
