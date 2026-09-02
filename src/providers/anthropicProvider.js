@@ -10,7 +10,6 @@
 // but for anything real, proxy these calls through a small backend and drop the
 // header. The key entered in the UI is held in memory only and never persisted.
 
-const ENDPOINT = "https://api.anthropic.com/v1/messages";
 const clamp = (v, lo, hi) => Math.max(lo, Math.min(hi, v));
 
 // System prompts steer each op to STRICT JSON so downstream validators work.
@@ -55,7 +54,8 @@ import { mockProvider } from "./mockProvider.js";
 
 export function createAnthropicProvider({ apiKey, model = "claude-sonnet-4-5" }) {
   async function callJSON(spec, payload) {
-    const res = await fetch(ENDPOINT, {
+    // Hardcoded endpoint (never user-controlled) — avoids any SSRF surface.
+    const res = await fetch("https://api.anthropic.com/v1/messages", {
       method: "POST",
       headers: {
         "content-type": "application/json",
