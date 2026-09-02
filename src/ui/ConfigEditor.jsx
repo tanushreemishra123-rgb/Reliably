@@ -14,7 +14,7 @@ export default function ConfigEditor({ block, onChange }) {
     ai: () => [
       F("Operation", sel(c.op, [
         { v: "summarize", t: "summarize" }, { v: "classify", t: "classify" }, { v: "draft", t: "draft" },
-        { v: "answer", t: "answer" }, { v: "plan", t: "plan" },
+        { v: "extract", t: "extract" }, { v: "answer", t: "answer" }, { v: "plan", t: "plan" },
       ], "op")),
       F("Model", sel(c.model, [{ v: "primary", t: "primary" }, { v: "fallback", t: "fallback" }], "model")),
     ],
