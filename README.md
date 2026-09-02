@@ -32,7 +32,7 @@ mode.
 
 ## Demo
 
-> **Video:** https://www.loom.com/share/966da08338a14e12a3b35239b9145182
+> **Video:** https://www.loom.com/share/c1fb0b2b63054619a617d3556539b51f
 
 The walkthrough covers selecting a puzzle, building and modifying a workflow, running it normally, triggering a controlled failure, observing the failed step, recovering with retry/fallback, validating structured output, approving/editing/rejecting a human-review step, resuming from a checkpoint after an interruption, reviewing the execution trace and reliability report, and running entirely in mock AI mode.
 
