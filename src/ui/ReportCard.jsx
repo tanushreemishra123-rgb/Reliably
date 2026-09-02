@@ -35,7 +35,11 @@ export default function ReportCard({ report, grade, armed }) {
         <Stat n={r.retries} l="retry attempts" />
         <Stat n={r.fallbackUsed ? "Yes" : "No"} l="fallback used" color={r.fallbackUsed ? C.recov : C.mut} />
         <Stat n={r.humanUsed ? (r.humanDecision || "yes") : "No"} l="human decision" color={r.humanUsed ? C.human : C.mut} />
-        <Stat n={!armed ? "Off" : (r.recovered || r.safeStopped ? "Handled" : "Unhandled")} l="injected failure" color={!armed ? C.mut : (r.recovered || r.safeStopped ? C.ok : C.fail)} />
+        <Stat
+          n={!armed ? "Off" : !r.injectedFired ? "None" : (r.recovered || r.safeStopped ? "Handled" : "Unhandled")}
+          l="injected failure"
+          color={!armed || !r.injectedFired ? C.mut : (r.recovered || r.safeStopped ? C.ok : C.fail)}
+        />
       </div>
     </div>
   );
