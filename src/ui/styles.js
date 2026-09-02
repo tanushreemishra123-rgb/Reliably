@@ -56,7 +56,7 @@ export const CSS = `
 .rl-hint { font-size:12.5px; color:#bcd; background:#0f1728; border:1px solid ${C.line}; border-radius:8px; padding:10px; margin-top:8px; }
 .rl-palette { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
 .rl-pbtn { display:flex; align-items:center; gap:8px; border:1px solid var(--line); background:var(--panel2); color:var(--ink);
-  border-radius:9px; padding:9px 10px; font-size:12.5px; cursor:pointer; font-family:inherit; transition:.12s; }
+  border-radius:9px; padding:9px 10px; font-size:12.5px; cursor:pointer; font-family:inherit; transition:.12s; min-height:40px; line-height:1.15; text-align:left; }
 .rl-pbtn:hover { border-color:${C.line2}; transform:translateY(-1px); }
 .rl-glyph { width:22px; height:22px; border-radius:6px; display:grid; place-items:center; font-size:13px; color:#0a0f1c; font-weight:700; flex:none; }
 .rl-toolbar { display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-bottom:14px; }
