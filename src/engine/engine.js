@@ -317,10 +317,15 @@ function applyHuman(s, block, d, base, push) {
     push({ ...base, status: "completed", note: "Human approved", output: { decision: "approved" } });
   } else if (d.decision === "edit") {
     s.payload.approved = true;
-    if (typeof s.payload.draft !== "undefined") s.payload.draft = d.text;
-    if (typeof s.payload.answer !== "undefined") s.payload.answer = d.text;
-    s.payload.edited = d.text;
-    push({ ...base, status: "completed", note: "Human edited then approved", output: { decision: "edited", text: d.text } });
+    // If the reviewer left the box empty, keep the original text rather than
+    // blanking the message — an empty "edit" should never ship nothing.
+    const current = s.payload.draft ?? s.payload.answer ?? "";
+    const finalText = (d.text && d.text.trim()) ? d.text : current;
+    if (typeof s.payload.draft !== "undefined") s.payload.draft = finalText;
+    if (typeof s.payload.answer !== "undefined") s.payload.answer = finalText;
+    s.payload.edited = finalText;
+    const note = (d.text && d.text.trim()) ? "Human edited then approved" : "Human approved (no changes made)";
+    push({ ...base, status: "completed", note, output: { decision: "edited", text: finalText } });
   } else {
     s.flags.recovered = true;
     push({ ...base, status: "safe-stopped", note: "Human rejected — stopped safely", output: { decision: "rejected" } });
