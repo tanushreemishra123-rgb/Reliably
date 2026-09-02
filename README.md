@@ -32,19 +32,9 @@ mode.
 
 ## Demo
 
-> **Video:** _add your 3–5 min screen recording link here._
+> **Video:** https://www.loom.com/share/966da08338a14e12a3b35239b9145182
 
-A full run-through touches every reliability concept, in order:
-
-1. Select **Fix the Meeting Summarizer** and read the objective.
-2. With **Failure armed** off, press **Run** — the trace completes cleanly.
-3. Toggle **Failure armed** on and Run again — the summary ships malformed (missing owners); expand the step to see it.
-4. Add a **Validator** (check: meeting, onFail: repair) and Run — it's caught and repaired.
-5. **Survive the Research Timeout**: Run (tool times out), add a **Fallback**, Run again — recovered via the cached index.
-6. **Validate the Data Extractor**: add a **Validator** (check: schema) — malformed JSON is caught and recovered.
-7. **Approve Before Sending**: add a **Human Review** block, Run, then Approve / Edit / Reject.
-8. **Resume the Interrupted Mission**: Run, let the interruption hit, click **Resume from checkpoint** — the expensive step doesn't re-run.
-9. Read the **reliability report** (graded checks + stats) and watch the solved counter climb.
+The walkthrough covers selecting a puzzle, building and modifying a workflow, running it normally, triggering a controlled failure, observing the failed step, recovering with retry/fallback, validating structured output, approving/editing/rejecting a human-review step, resuming from a checkpoint after an interruption, reviewing the execution trace and reliability report, and running entirely in mock AI mode.
 
 ---
 
