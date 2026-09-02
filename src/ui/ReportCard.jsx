@@ -9,6 +9,9 @@ const Stat = ({ n, l, color }) => (
 export default function ReportCard({ report, grade, armed }) {
   const r = report;
   const statusWord = r.completed ? "Completed" : r.safeStopped ? "Stopped safely" : "Failed";
+  // A failure counts as handled if we recovered, safely stopped, or survived an
+  // interruption via resume/restart.
+  const handled = r.recovered || r.safeStopped || !!r.resumeChoice;
   return (
     <div className="rl-card">
       <div className="rl-eyebrow">Reliability report</div>
@@ -36,9 +39,9 @@ export default function ReportCard({ report, grade, armed }) {
         <Stat n={r.fallbackUsed ? "Yes" : "No"} l="fallback used" color={r.fallbackUsed ? C.recov : C.mut} />
         <Stat n={r.humanUsed ? (r.humanDecision || "yes") : "No"} l="human decision" color={r.humanUsed ? C.human : C.mut} />
         <Stat
-          n={!armed ? "Off" : !r.injectedFired ? "None" : (r.recovered || r.safeStopped ? "Handled" : "Unhandled")}
+          n={!armed ? "Off" : !r.injectedFired ? "None" : (handled ? "Handled" : "Unhandled")}
           l="injected failure"
-          color={!armed || !r.injectedFired ? C.mut : (r.recovered || r.safeStopped ? C.ok : C.fail)}
+          color={!armed || !r.injectedFired ? C.mut : (handled ? C.ok : C.fail)}
         />
       </div>
     </div>
