@@ -1,108 +1,104 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 660" font-family="'Space Grotesk',system-ui,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 780" font-family="'Space Grotesk',system-ui,sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0ZDE0MWVmZS1jYmZjLTRjNzItOWY4My1jN2M1NTZiMWI0ZjAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaC2wbtVix0eXUI5C8L13S2QAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozMjkyYjAwMy1kMzcyLTRmMmMtYTg0Ny1kZjA3NmRlMjc2MjlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoFFFYNWlO3y2ReLRFzT3xrwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggDtf2sPrq1HGZhsQ7mNJM2f/kmTWro6MbGddMFVBKNe6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJHhhLkcITPaAoWEdHRjQNwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCB5BwKq3bNPCsCJX0vr02ohwkJqnc7O5r0fzkyjfYIS5GRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiwZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjRkMTQxZWZlLWNiZmMtNGM3Mi05ZjgzLWM3YzU1NmIxYjRmMC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmFlNzM4Njg2LWQ4NmQtNDNjOS04NDc4LTY1OGIwYmQzYzIwMnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAO1/aw+urUcZmGxDuY0kzZ/+SZNaujoxsZ10wVUEo17qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg0R/kt5po1ADiuDKcaQPsmhnWRM2/qeVUFTuidoj8xCaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggSsKwV8/4x27i3MlQu7fqv+R+mIi6Aaqoh6mHP7NK1j10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMA+kT4aBq59IAJEjJKp1o3Po6aImgTx5K5SUlSn3Ip/3m++qzqfBEKQNMOn7sCtbleOJUMkfSc+JGrha18zrso=</c2pa:manifest></metadata>
   <defs>
     <linearGradient id="logo" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#8b7bf6"/><stop offset="1" stop-color="#4cc4f0"/>
     </linearGradient>
-    <marker id="ar" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto">
-      <path d="M0 0 L8 4.5 L0 9 z" fill="#5f6d94"/>
+    <marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="4.5" orient="auto">
+      <path d="M0 0 L8 4.5 L0 9 z" fill="#7d8ab5"/>
     </marker>
     <style>
       .lbl{fill:#e8ecfb;font-size:14px;font-weight:600}
       .sub{fill:#8a97bd;font-size:11px}
-      .tag{fill:#5f6d94;font-size:10.5px;letter-spacing:.06em}
-      .box{fill:#151d31;stroke:#28345a;rx:12}
-      .flow{stroke:#5f6d94;stroke-width:1.6;fill:none}
-      .flow-d{stroke:#354268;stroke-width:1.4;fill:none;stroke-dasharray:4 4}
-      .mono{font-family:'IBM Plex Mono',monospace;font-size:10.5px;fill:#aeb9e0}
+      .tag{fill:#7d8ab5;font-size:11px;letter-spacing:.06em}
+      .mono{font-family:'IBM Plex Mono',monospace;font-size:11px;fill:#aeb9e0}
+      .flowlbl{font-family:'IBM Plex Mono',monospace;font-size:11px;fill:#8a97bd}
     </style>
   </defs>
 
-  <rect width="940" height="660" fill="#0e1524"/>
-  <rect x="20" y="18" width="34" height="34" rx="9" fill="url(#logo)"/>
-  <text x="46" y="41" font-size="20" fill="#0a0f1c" font-weight="700" text-anchor="middle">◇</text>
-  <text x="66" y="34" fill="#e8ecfb" font-size="19" font-weight="600">Reliably — architecture</text>
-  <text x="66" y="50" class="sub">Builder UI · resumable engine · pluggable providers · puzzle definitions</text>
+  <rect width="960" height="780" fill="#0e1524"/>
 
-  <!-- UI LAYER -->
-  <text x="20" y="86" class="tag">UI LAYER  (src/ui, src/App.jsx)</text>
-  <rect class="box" x="20" y="94" width="900" height="86" rx="12"/>
+  <!-- Header -->
+  <rect x="24" y="22" width="36" height="36" rx="9" fill="url(#logo)"/>
+  <text x="42" y="46" font-size="21" fill="#0a0f1c" font-weight="700" text-anchor="middle">◇</text>
+  <text x="72" y="40" fill="#e8ecfb" font-size="20" font-weight="600">Reliably — architecture</text>
+  <text x="72" y="58" class="sub">Builder UI · resumable state-machine engine · pluggable providers · puzzle definitions</text>
+
+  <!-- ===================== UI LAYER ===================== -->
+  <text x="24" y="94" class="tag">UI LAYER — src/ui, src/App.jsx</text>
+  <rect x="24" y="102" width="912" height="96" rx="12" fill="#151d31" stroke="#28345a"/>
   <g>
-    <rect class="box" x="36" y="110" width="200" height="54" fill="#1b2640"/>
-    <text x="50" y="132" class="lbl">Builder canvas</text><text x="50" y="150" class="sub">place · order · configure blocks</text>
-    <rect class="box" x="252" y="110" width="200" height="54" fill="#1b2640"/>
-    <text x="266" y="132" class="lbl">Execution trace</text><text x="266" y="150" class="sub">per-step status + payloads</text>
-    <rect class="box" x="468" y="110" width="212" height="54" fill="#1b2640"/>
-    <text x="482" y="132" class="lbl">Review / Interrupt</text><text x="482" y="150" class="sub">approve · edit · reject · resume</text>
-    <rect class="box" x="696" y="110" width="208" height="54" fill="#1b2640"/>
-    <text x="710" y="132" class="lbl">Reliability report</text><text x="710" y="150" class="sub">graded checks + stats</text>
+    <rect x="42" y="120" width="210" height="60" rx="9" fill="#1b2640"/>
+    <text x="58" y="145" class="lbl">Builder canvas</text><text x="58" y="164" class="sub">place · order · configure</text>
+    <rect x="266" y="120" width="210" height="60" rx="9" fill="#1b2640"/>
+    <text x="282" y="145" class="lbl">Execution trace</text><text x="282" y="164" class="sub">per-step status + payload</text>
+    <rect x="490" y="120" width="210" height="60" rx="9" fill="#1b2640"/>
+    <text x="506" y="145" class="lbl">Review / Interrupt</text><text x="506" y="164" class="sub">approve · reject · resume</text>
+    <rect x="714" y="120" width="204" height="60" rx="9" fill="#1b2640"/>
+    <text x="730" y="145" class="lbl">Reliability report</text><text x="730" y="164" class="sub">graded checks + stats</text>
   </g>
 
-  <!-- arrows UI <-> engine -->
-  <path class="flow" d="M470 180 L470 208" marker-end="url(#ar)"/>
-  <path class="flow" d="M500 250 L500 182" marker-end="url(#ar)"/>
-  <text x="512" y="200" class="mono">stepOnce()</text>
-  <text x="360" y="200" class="mono" text-anchor="end">state ▸</text>
+  <!-- gutter: UI <-> ENGINE (two separate arrows, labels below each) -->
+  <line x1="300" y1="212" x2="300" y2="252" stroke="#7d8ab5" stroke-width="1.6" marker-end="url(#ar)"/>
+  <text x="300" y="268" class="flowlbl" text-anchor="middle">stepOnce · resume · decide ▾</text>
+  <line x1="660" y1="252" x2="660" y2="212" stroke="#7d8ab5" stroke-width="1.6" marker-end="url(#ar)"/>
+  <text x="660" y="268" class="flowlbl" text-anchor="middle">▴ state</text>
 
-  <!-- ENGINE -->
-  <text x="20" y="236" class="tag">ENGINE  (src/engine) — resumable async state machine, one block per step</text>
-  <rect class="box" x="20" y="244" width="620" height="220" rx="12" stroke="#8b7bf6" stroke-opacity="0.5"/>
-  <text x="38" y="270" class="lbl" fill="#b39bff">createRun → stepOnce → (resume | decide)</text>
+  <!-- ===================== ENGINE ===================== -->
+  <text x="24" y="284" class="tag">ENGINE — src/engine · resumable async state machine (one block per step)</text>
+  <rect x="24" y="292" width="612" height="196" rx="12" fill="#151d31" stroke="#8b7bf6" stroke-opacity="0.5"/>
+  <text x="42" y="318" class="lbl" fill="#b39bff">createRun → stepOnce → (resume | decide)</text>
 
-  <g>
-    <rect class="box" x="38" y="284" width="180" height="46" fill="#12193b"/>
-    <text x="52" y="304" class="lbl">Rolling checkpoint</text><text x="52" y="320" class="sub">last successful step</text>
-    <rect class="box" x="230" y="284" width="180" height="46" fill="#12193b"/>
-    <text x="244" y="304" class="lbl">Retry / Fallback</text><text x="244" y="320" class="sub">recover thrown failures</text>
-    <rect class="box" x="422" y="284" width="200" height="46" fill="#12193b"/>
-    <text x="436" y="304" class="lbl">Validator / Condition</text><text x="436" y="320" class="sub">structured-output guards</text>
+  <rect x="42" y="332" width="184" height="44" rx="8" fill="#12193b"/>
+  <text x="56" y="352" class="lbl" font-size="12.5">Rolling checkpoint</text><text x="56" y="368" class="sub">last successful step</text>
+  <rect x="234" y="332" width="184" height="44" rx="8" fill="#12193b"/>
+  <text x="248" y="352" class="lbl" font-size="12.5">Retry / Fallback</text><text x="248" y="368" class="sub">recover thrown errors</text>
+  <rect x="426" y="332" width="192" height="44" rx="8" fill="#12193b"/>
+  <text x="440" y="352" class="lbl" font-size="12.5">Validator / Condition</text><text x="440" y="368" class="sub">structured-output guards</text>
 
-    <rect class="box" x="38" y="342" width="180" height="46" fill="#12193b"/>
-    <text x="52" y="362" class="lbl">Human pause</text><text x="52" y="378" class="sub">decisions map by block id</text>
-    <rect class="box" x="230" y="342" width="180" height="46" fill="#12193b"/>
-    <text x="244" y="362" class="lbl" fill="#ffb066">Interrupt → resume</text><text x="244" y="378" class="sub">from checkpoint, not restart</text>
-    <rect class="box" x="422" y="342" width="200" height="46" fill="#12193b"/>
-    <text x="436" y="362" class="lbl">buildReport</text><text x="436" y="378" class="sub">recovery + reliability signals</text>
-  </g>
+  <rect x="42" y="384" width="184" height="44" rx="8" fill="#12193b"/>
+  <text x="56" y="404" class="lbl" font-size="12.5">Human pause</text><text x="56" y="420" class="sub">decisions by block id</text>
+  <rect x="234" y="384" width="184" height="44" rx="8" fill="#12193b"/>
+  <text x="248" y="404" class="lbl" font-size="12.5" fill="#ffb066">Interrupt → resume</text><text x="248" y="420" class="sub">from checkpoint</text>
+  <rect x="426" y="384" width="192" height="44" rx="8" fill="#12193b"/>
+  <text x="440" y="404" class="lbl" font-size="12.5">buildReport</text><text x="440" y="420" class="sub">reliability signals</text>
 
-  <!-- failure injection note -->
-  <rect class="box" x="38" y="402" width="584" height="46" fill="#1c1220" stroke="#f66d93" stroke-opacity="0.4"/>
-  <text x="52" y="422" class="lbl" fill="#f66d93">Failure injection lives here — not in providers</text>
-  <text x="52" y="438" class="sub">timeout · malformed · low-confidence · empty retrieval · interruption — identical for mock &amp; live</text>
+  <rect x="42" y="436" width="576" height="38" rx="8" fill="#1c1220" stroke="#f66d93" stroke-opacity="0.4"/>
+  <text x="56" y="460" class="sub" fill="#f66d93">Failure injection lives here — identical for mock &amp; live (timeout · malformed · low-confidence · empty · interrupt)</text>
 
-  <!-- PUZZLES feeding engine -->
-  <text x="664" y="236" class="tag">PUZZLES  (src/puzzles)</text>
-  <rect class="box" x="664" y="244" width="256" height="220" rx="12" stroke="#3ddc97" stroke-opacity="0.4"/>
-  <text x="680" y="270" class="lbl" fill="#3ddc97">8 puzzle definitions</text>
-  <text x="680" y="292" class="mono">initial() blocks</text>
-  <text x="680" y="312" class="mono">failure.plan(block, ctx)</text>
-  <text x="680" y="332" class="mono">checkValid(payload)</text>
-  <text x="680" y="352" class="mono">grade(report) ▸ checks[]</text>
-  <text x="680" y="384" class="sub">beginner → advanced:</text>
-  <text x="680" y="402" class="sub">summarize · approve · route ·</text>
-  <text x="680" y="420" class="sub">extract · timeout · ground ·</text>
-  <text x="680" y="438" class="sub">fallback · resume (checkpoint)</text>
-  <path class="flow-d" d="M664 354 L624 354" marker-end="url(#ar)"/>
+  <!-- PUZZLES (side) -->
+  <text x="660" y="284" class="tag">PUZZLES — src/puzzles</text>
+  <rect x="660" y="292" width="276" height="196" rx="12" fill="#151d31" stroke="#3ddc97" stroke-opacity="0.4"/>
+  <text x="678" y="318" class="lbl" fill="#3ddc97">8 puzzle definitions</text>
+  <text x="678" y="344" class="mono">initial() blocks</text>
+  <text x="678" y="366" class="mono">failure.plan(block, ctx)</text>
+  <text x="678" y="388" class="mono">checkValid(payload)</text>
+  <text x="678" y="410" class="mono">grade(report) → checks[]</text>
+  <text x="678" y="444" class="sub">beginner → advanced</text>
+  <text x="678" y="462" class="sub">seed input · schema · mock data</text>
+  <line x1="660" y1="400" x2="620" y2="400" stroke="#354268" stroke-width="1.4" stroke-dasharray="4 4" marker-end="url(#ar)"/>
 
-  <!-- PROVIDERS -->
-  <text x="20" y="500" class="tag">PROVIDER INTERFACE  (src/providers) — run(op, args) → { value, note }</text>
-  <rect class="box" x="20" y="508" width="900" height="120" rx="12" stroke="#4cc4f0" stroke-opacity="0.45"/>
-  <path class="flow" d="M330 464 L330 508" marker-end="url(#ar)"/>
-  <text x="342" y="492" class="mono">content only ▾</text>
+  <!-- gutter: ENGINE <-> PROVIDERS -->
+  <line x1="300" y1="500" x2="300" y2="540" stroke="#7d8ab5" stroke-width="1.6" marker-end="url(#ar)"/>
+  <text x="300" y="556" class="flowlbl" text-anchor="middle">run(op, args) ▾</text>
+  <line x1="660" y1="540" x2="660" y2="500" stroke="#7d8ab5" stroke-width="1.6" marker-end="url(#ar)"/>
+  <text x="660" y="556" class="flowlbl" text-anchor="middle">▴ { value, note }</text>
 
-  <rect class="box" x="40" y="528" width="270" height="82" fill="#12193b"/>
-  <text x="56" y="552" class="lbl">index.js · getProvider(cfg)</text>
-  <text x="56" y="572" class="sub">selects provider from UI config;</text>
-  <text x="56" y="590" class="sub">defaults to mock (zero setup)</text>
+  <!-- ===================== PROVIDERS ===================== -->
+  <text x="24" y="582" class="tag">PROVIDER INTERFACE — src/providers · one contract, layered implementations</text>
+  <rect x="24" y="590" width="912" height="128" rx="12" fill="#151d31" stroke="#4cc4f0" stroke-opacity="0.45"/>
+  <text x="42" y="616" class="lbl" fill="#7fd4f2">getProvider(cfg) — selects the active provider (mock by default)</text>
 
-  <rect class="box" x="326" y="528" width="270" height="82" fill="#0f1a1a" stroke="#3ddc97" stroke-opacity="0.4"/>
-  <text x="342" y="552" class="lbl" fill="#3ddc97">mockProvider + tool simulator</text>
-  <text x="342" y="572" class="sub">model fixtures + simulated tool layer</text>
-  <text x="342" y="590" class="sub">(research / retrieval) — offline</text>
+  <rect x="42" y="632" width="272" height="68" rx="9" fill="#12193b"/>
+  <text x="58" y="658" class="lbl" font-size="13">index.js · registry</text>
+  <text x="58" y="678" class="sub">picks mock vs live from config</text>
 
-  <rect class="box" x="612" y="528" width="288" height="82" fill="#151033" stroke="#8b7bf6" stroke-opacity="0.5"/>
-  <text x="628" y="552" class="lbl" fill="#b39bff">anthropicProvider (optional)</text>
-  <text x="628" y="572" class="sub">live Claude via Messages API;</text>
-  <text x="628" y="590" class="sub">strict-JSON prompts per op</text>
+  <rect x="330" y="632" width="272" height="68" rx="9" fill="#0f1a1a" stroke="#3ddc97" stroke-opacity="0.4"/>
+  <text x="346" y="658" class="lbl" font-size="13" fill="#3ddc97">mockProvider + tool simulator</text>
+  <text x="346" y="678" class="sub">deterministic, offline, no network</text>
 
-  <text x="20" y="648" class="sub">Same interface both ways → swapping the provider changes where the words come from, never how the workflow executes, validates, fails, or recovers.</text>
+  <rect x="618" y="632" width="300" height="68" rx="9" fill="#151033" stroke="#8b7bf6" stroke-opacity="0.5"/>
+  <text x="634" y="658" class="lbl" font-size="13" fill="#b39bff">anthropicProvider (optional)</text>
+  <text x="634" y="678" class="sub">live Claude · same interface</text>
+
+  <text x="24" y="748" class="sub">Same interface both ways → swapping the provider changes where the words come from, never how the workflow executes, validates, fails, or recovers.</text>
 </svg>
